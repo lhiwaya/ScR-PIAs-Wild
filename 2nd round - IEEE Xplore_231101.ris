@@ -1,0 +1,1136 @@
+TY  - CONF
+TI  - A Conceptual Framework for Assessing Risks for Data Protection Impact Assessment Process in Maritime Industries
+T2  - 2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+SP  - 1083
+EP  - 1087
+AU  - S. Yungratog
+AU  - F. Goerlandt
+AU  - W. Punurai
+AU  - S. Thammaboosadee
+PY  - 2022
+DO  - 10.1109/IEEM55944.2022.9989595
+JO  - 2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)
+Y1  - 7-10 Dec. 2022
+AB  - Personal data is used to define customer requirements. Organizations should securely collect and process such data, using data protection policies aligned with the applicable regulations. The General Data Protection Regulation (GDPR), an EU data protection law, has include a data protection assessment method called Data Protection Impact Assessment (DPIA) to ensure personal data security. The maritime industry is also concerned about personal data protection. However, there is a still a lack of practical methods to assess data protection risks. This article aims to introduce the conceptual framework for a new method for risk assessment in maritime systems, using DPIA and various systems-theoretic risk approaches as a conceptual basis. The ICT system is a central system in which personal data is utilized in the architecture of maritime systems. In this article, this system will be taken as a basis for illustrating the newly proposed method for personal data security risk assessment in a DPIA context. The conceptual framework will be further concretized and tested in follow-up research.
+ER  - 
+
+TY  - CONF
+TI  - Privacy impact assessment for online social networks
+T2  - 2015 International Conference on Collaboration Technologies and Systems (CTS)
+SP  - 370
+EP  - 375
+AU  - Y. Wang
+AU  - R. K. Nepali
+PY  - 2015
+DO  - 10.1109/CTS.2015.7210451
+JO  - 2015 International Conference on Collaboration Technologies and Systems (CTS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Collaboration Technologies and Systems (CTS)
+Y1  - 1-5 June 2015
+AB  - Many threats and attacks have been found in online social networks. When a security incident happens and data loss occurs, it is important to assess how the lost data affects user privacy. Most approaches for privacy impact assessment are based on checklists and auditions. There is lack of quantitative analysis approach to study privacy impact. Privacy impact assessment is a very challenging issue. First, data loss includes direct data loss, indirect data loss, and potential data loss. The impact of these data loss to user privacy should all be considered. Second, privacy impact assessment requires measuring privacy. Privacy measurement itself is a challenging issue. Third, users are all connected in a social network. Data loss may spread and propagate across the whole social network. In this paper, we summarize issues and challenges for privacy impact assessment. We further propose a quantitative analysis approach to assess privacy impact for online social networks. Two particular challenges are considered in the paper, privacy impact assessment when partial user information is disclosed, and privacy impact assessment when a group of user accounts are compromised. The paper provides a quantitative analysis approach for government agencies, enterprises, and organizations to assess privacy impact for online social networks when a security incident occurs.
+ER  - 
+
+TY  - CONF
+TI  - Shedding light on web privacy impact assessment: A case study of the Ambient Light Sensor API
+T2  - 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+SP  - 310
+EP  - 313
+AU  - L. Olejnik
+PY  - 2020
+DO  - 10.1109/EuroSPW51379.2020.00048
+JO  - 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+Y1  - 7-11 Sept. 2020
+AB  - As modern web browsers gain new and increasingly powerful features the importance of impact assessments of the new functionality becomes crucial. A web privacy impact assessment of a planned web browser feature, the Ambient Light Sensor API, indicated risks arising from the exposure of overly precise information about the lighting conditions in the user environment. The analysis led to the demonstration of direct risks of leaks of user data, such as the list of visited websites or exfiltration of sensitive content across distinct browser contexts. Our work contributed to the creation of web standards leading to decisions by browser vendors (i.e. obsolescence, non-implementation or modification to the operation of browser features). We highlight the need to consider broad risks when making reviews of new features. We offer practically-driven high-level observations lying on the intersection of web security and privacy risk engineering and modeling, and standardization. We structure our work as a case study from activities spanning over three years.
+ER  - 
+
+TY  - CONF
+TI  - From Privacy Impact Assessment to Social Impact Assessment
+T2  - 2016 IEEE Security and Privacy Workshops (SPW)
+SP  - 53
+EP  - 57
+AU  - L. Edwards
+AU  - D. McAuley
+AU  - L. Diver
+PY  - 2016
+DO  - 10.1109/SPW.2016.19
+JO  - 2016 IEEE Security and Privacy Workshops (SPW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Security and Privacy Workshops (SPW)
+Y1  - 22-26 May 2016
+AB  - In order to address the continued decline in consumer trust in all things digital, and specifically the Internet of Things (IoT), we propose a radical overhaul of IoT design processes. Privacy by Design has been proposed as a suitable framework, but we argue the current approach has two failings: it presents too abstract a framework to inform design, and it is often applied after many critical design decisions have been made in defining the business opportunity. To rebuild trust we need the philosophy of Privacy by Design to be transformed into a wider Social Impact Assessment and delivered with practical guidance to be applied at product/service concept stage as well as throughout the system's engineering.
+ER  - 
+
+TY  - CONF
+TI  - An Architectural View for Data Protection by Design
+T2  - 2019 IEEE International Conference on Software Architecture (ICSA)
+SP  - 11
+EP  - 20
+AU  - L. Sion
+AU  - P. Dewitte
+AU  - D. Van Landuyt
+AU  - K. Wuyts
+AU  - I. Emanuilov
+AU  - P. Valcke
+AU  - W. Joosen
+PY  - 2019
+DO  - 10.1109/ICSA.2019.00010
+JO  - 2019 IEEE International Conference on Software Architecture (ICSA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Software Architecture (ICSA)
+Y1  - 25-29 March 2019
+AB  - Data Protection by Design (DPbD) is a truly interdisciplinary effort that involves many stakeholders such as legal experts, requirements engineers, software architects, developers, and system operators. Building software-intensive systems that respect the fundamental rights to privacy and data protection is the result of intensive dialogue and careful trade-off decisions. In practice however, there is a dichotomy between the legal reasoning which is conducted in Data Protection Impact Assessments (DPIA) and software engineering approaches, such as threat modeling, aimed at identifying privacy requirements and privacy risks. These activities are commonly performed in total isolation, which negatively impacts (i) the compliance exercise, (ii) the ability to evolve the system over time, and (iii) the architectural trade-offs made during system design. In this article, we present an architectural viewpoint for describing software architectures from a legal, data protection perspective whose core modeling abstractions are based on an in-depth legal analysis of the EU General Data Protection Regulation. This viewpoint is tied to Data Flow Diagrams-commonly used in threat modeling-through correspondence rules. The proposed viewpoint supports the automation of a number of data protection impact assessment steps through (i) meta-model constraints, (ii) model analysis, and (iii) interaction with the involved stakeholders. This enables a streamlined compliance exercise, reconciling legal privacy and data protection notions with architecture-driven software engineering practices. We validate our approach in the context of a realistic e-health application for a number of complementary development scenarios.
+ER  - 
+
+TY  - CONF
+TI  - A Study on the Implementation of the Effective Privacy Impact Assessment Management System
+T2  - 2013 International Conference on Information Science and Applications (ICISA)
+SP  - 1
+EP  - 4
+AU  - J. Sun
+AU  - S. Lee
+PY  - 2013
+DO  - 10.1109/ICISA.2013.6579420
+JO  - 2013 International Conference on Information Science and Applications (ICISA)
+IS  - 
+SN  - 2162-9048
+VO  - 
+VL  - 
+JA  - 2013 International Conference on Information Science and Applications (ICISA)
+Y1  - 24-26 June 2013
+AB  - Owing to digitization of information and e-commerce, various sectors like public, financial and private sectors are using a great number of personal information, and incidents caused by sensitive information leakage tend to be increased everyday. Though a privacy impact assessment system was introduced to prevent security problems of personal information, it has been hard to operate it. It is necessarily suggested to have much easier privacy impact assessment support system. This thesis suggests PIAMS(Privacy Impact Assessment Management System) which is needed in public and private sectors.
+ER  - 
+
+TY  - CONF
+TI  - The Never-Ending Story: On the Need for Continuous Privacy Impact Assessment
+T2  - 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+SP  - 314
+EP  - 317
+AU  - L. Sion
+AU  - D. V. Landuyt
+AU  - W. Joosen
+PY  - 2020
+DO  - 10.1109/EuroSPW51379.2020.00049
+JO  - 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+Y1  - 7-11 Sept. 2020
+AB  - The importance of privacy by design has increased with initiatives such as the General Data Protection Regulation (GDPR). While static, design-level assessment of privacy aspects provides considerable benefits in the creation of privacy-preserving software-intensive systems, operational aspects that are difficult to predict at design-time also play a key role. This is particularly true in the instance of privacy impact or privacy risk: while existing approaches succeed fairly well in assessing the overall risk from a static design context, they are not well suited to capture risk elements that are dynamic and often impossible to foresee.In this position paper, we highlight this problem at the basis of a number of realistic motivational scenarios and outline our vision towards continuous privacy impact assessment and risk management.
+ER  - 
+
+TY  - CONF
+TI  - Tool-Supporting Data Protection Impact Assessments with CAIRIS
+T2  - 2018 IEEE 5th International Workshop on Evolving Security & Privacy Requirements Engineering (ESPRE)
+SP  - 21
+EP  - 27
+AU  - J. Coles
+AU  - S. Faily
+AU  - D. Ki-Aries
+PY  - 2018
+DO  - 10.1109/ESPRE.2018.00010
+JO  - 2018 IEEE 5th International Workshop on Evolving Security & Privacy Requirements Engineering (ESPRE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 5th International Workshop on Evolving Security & Privacy Requirements Engineering (ESPRE)
+Y1  - 20-20 Aug. 2018
+AB  - The General Data Protection Regulation (GDPR) encourages the use of Data Protection Impact Assessments (DPIAs) to integrate privacy into organisations' activities and practices from early design onwards. To date, however, there has been little prescription about how Security & Privacy Requirements Engineering processes map to the necessary activities of a DPIA, and how these activities can be tool-supported. To address this problem, we present a tool-supported process for undertaking DPIAs using existing Requirements Engineering approaches and the CAIRIS platform. We illustrate this process using a real-world case study example where it was used to elicit privacy risks for a prototype medical application to support chemotherapy treatment.
+ER  - 
+
+TY  - CONF
+TI  - Privacy Points as a Method to Support Privacy Impact Assessments
+T2  - 2015 IEEE/ACM 1st International Workshop on TEchnical and LEgal aspects of data pRivacy and SEcurity
+SP  - 50
+EP  - 53
+AU  - J. Himmel
+AU  - N. Siebler
+AU  - F. Laegeler
+AU  - M. Grupe
+AU  - H. Langweg
+PY  - 2015
+DO  - 10.1109/TELERISE.2015.17
+JO  - 2015 IEEE/ACM 1st International Workshop on TEchnical and LEgal aspects of data pRivacy and SEcurity
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE/ACM 1st International Workshop on TEchnical and LEgal aspects of data pRivacy and SEcurity
+Y1  - 18-18 May 2015
+AB  - We introduce a lightweight and easy to use methodology to quantify relevant aspects of privacy based on the privacy points approach.
+ER  - 
+
+TY  - CONF
+TI  - An Attribtue-Based Statistic Model for Privacy Impact Assessment
+T2  - 2016 International Conference on Collaboration Technologies and Systems (CTS)
+SP  - 619
+EP  - 621
+AU  - Y. Wang
+AU  - J. Liu
+PY  - 2016
+DO  - 10.1109/CTS.2016.0117
+JO  - 2016 International Conference on Collaboration Technologies and Systems (CTS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Collaboration Technologies and Systems (CTS)
+Y1  - 31 Oct.-4 Nov. 2016
+AB  - Personally Identifiable Information (PII) includes any information that can be used to distinguish or trace an individual's identity such as name, social security number, date and place of birth, mother's maiden name, or biometric records. It also includes other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information. PII is often the target of attacks, and loss of PII could result in identity theft. According to the U.S. Department of Justice, the average number of U.S. identity fraud victims annually is 11,571,900 [1]. The total financial loss attributed to identity theft in 2013 was $21 billion dollars, compared to $13.2 billion total loss in 2010[1].
+ER  - 
+
+TY  - CONF
+TI  - Delphi Study to Identify Criteria for the Systematic Assessment of Data Protection Risks in the Context of Big Data Analytics
+T2  - 2022 IEEE Eighth International Conference on Big Data Computing Service and Applications (BigDataService)
+SP  - 177
+EP  - 178
+AU  - G. Georgiadis
+AU  - G. Poels
+PY  - 2022
+DO  - 10.1109/BigDataService55688.2022.00037
+JO  - 2022 IEEE Eighth International Conference on Big Data Computing Service and Applications (BigDataService)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE Eighth International Conference on Big Data Computing Service and Applications (BigDataService)
+Y1  - 15-18 Aug. 2022
+AB  - A Big Data Analytics (BDA) environment is a complex ecosystem that includes users, powerful infrastructure, services and applications that store, retrieve and process large amounts of data from widely dispersed sources. While BDA has improved efficiency and created business value, leading to growing interest from businesses and organisations in investing in such technologies, there are some growing concerns about the secure and lawful processing of personal data under the General Data Protection Regulation (GDPR). In this paper, we briefly describe our ongoing research that addresses these concerns that could ultimately lead to the development of an improved DPIA methodology capable of assessing data protection risks based on BDA technologies.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of Privacy Impact Assessments within Major jurisdictions
+T2  - 2010 Eighth International Conference on Privacy, Security and Trust
+SP  - 118
+EP  - 125
+AU  - D. Tancock
+AU  - S. Pearson
+AU  - A. Charlesworth
+PY  - 2010
+DO  - 10.1109/PST.2010.5593260
+JO  - 2010 Eighth International Conference on Privacy, Security and Trust
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 Eighth International Conference on Privacy, Security and Trust
+Y1  - 17-19 Aug. 2010
+AB  - In this paper we define and analyse the notion of a Privacy Impact Assessment (PIA), with reference to various examples that have been carried out in different countries. We compare and contrast such approaches and examine current trends, including the potential role - and limitations - of technology in future assessments.
+ER  - 
+
+TY  - CONF
+TI  - A Privacy Impact Assessment Tool for Cloud Computing
+T2  - 2010 IEEE Second International Conference on Cloud Computing Technology and Science
+SP  - 667
+EP  - 676
+AU  - D. Tancock
+AU  - S. Pearson
+AU  - A. Charlesworth
+PY  - 2010
+DO  - 10.1109/CloudCom.2010.27
+JO  - 2010 IEEE Second International Conference on Cloud Computing Technology and Science
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 IEEE Second International Conference on Cloud Computing Technology and Science
+Y1  - 30 Nov.-3 Dec. 2010
+AB  - In this paper, we present a Privacy Impact Assessment (PIA) decision support tool that can be integrated within a cloud computing environment. Privacy is an important consideration in cloud computing, as actual or perceived privacy weaknesses will impact legal compliance, data security, and user trust. A PIA is a systematic process for evaluating the possible future effects that a particular activity or proposal may have on an individual's privacy. It focuses on understanding the system, initiative or scheme, identifying and mitigating adverse privacy impacts and informing decision makers who must decide whether the project should proceed and in what form. A PIA, as a proactive business process, is thus properly distinguished from reactive processes, such as privacy issue analysis, privacy audits and privacy law compliance checking, applied to existing systems to ensure their continuing conformity with internal rules and external requirements.
+ER  - 
+
+TY  - CONF
+TI  - Privacy Impact Assessment Template for Provenance
+T2  - 2016 11th International Conference on Availability, Reliability and Security (ARES)
+SP  - 653
+EP  - 660
+AU  - J. Reuben
+AU  - L. A. Martucci
+AU  - S. Fischer-Hübner
+AU  - H. S. Packer
+AU  - H. Hedbom
+AU  - L. Moreau
+PY  - 2016
+DO  - 10.1109/ARES.2016.95
+JO  - 2016 11th International Conference on Availability, Reliability and Security (ARES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 11th International Conference on Availability, Reliability and Security (ARES)
+Y1  - 31 Aug.-2 Sept. 2016
+AB  - Provenance data can be expressed as a graph with links informing who and which activities created, used and modified entities. The semantics of these links and domain specific reasoning can support the inference of additional information about the elements in the graph. If such elements include personal identifiers and/or personal identifiable information, then inferences may reveal unexpected links between elements, thus exposing personal data beyond an individual's intentions. Provenance graphs often entangle data relating to multiple individuals. It is therefore a challenge to protect personal data from unintended disclosure in provenance graphs. In this paper, we provide a Privacy Impact Assessment (PIA) template for identifying imminent privacy threats that arise from provenance graphs in an application-agnostic setting. The PIA template identifies privacy threats, lists potential countermeasures, helps to manage personal data protection risks, and maintains compliance with privacy data protection laws and regulations.
+ER  - 
+
+TY  - CHAP
+TI  - Data Protection Impact Assessments in Law Enforcement
+T2  - Security Technologies and Social Implications
+SP  - 32
+EP  - 60
+AU  - Thomas Marquenie
+AU  - Katherine Quezada&#x2010;Tav&#xe1;rez
+PY  - 2023
+DO  - 10.1002/9781119834175.ch2
+PB  - IEEE
+SN  - 
+UR  - http://ieeexplore.ieee.org/document/9930699
+AB  - Potent and novel technological applications are taking on an increasingly prominent role in data analytics, public policy, and law enforcement. These tools not only allow for the efficient management of resources and implementation of data&#x2010;driven strategies but also introduce various legal and ethical challenges concerning the rights of individuals and the integrity of police operations. As such, European data protection law prescribes the use of a Data Protection Impact Assessment (DPIA) to identify and address issues associated with high&#x2010;risk instances of data processing. Yet despite the severity of the risks posed by far&#x2010;reaching data analytics in law enforcement and criminal justice, comparatively little attention has been paid to evaluating or guiding the DPIA process in this sphere. This contribution explores the importance of DPIAs in contemporary police practice where algorithmic and analytical tools exert a growing degree of influence on decision&#x2010;making processes. It provides an overview of the relevant legal framework, examines key aspects of a police DPIA, and illustrates the importance of the process by exploring recent case law. Following this, it highlights key legal and ethical challenges from a law enforcement perspective and assesses the suitability of concrete mitigation strategies to establish best practices.
+ER  - 
+
+TY  - CONF
+TI  - Systematic identification of information flows from requirements to support privacy impact assessments
+T2  - 2015 10th International Joint Conference on Software Technologies (ICSOFT)
+SP  - 1
+EP  - 10
+AU  - R. Meis
+AU  - M. Heisel
+PY  - 2015
+DO  - 
+JO  - 2015 10th International Joint Conference on Software Technologies (ICSOFT)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - 2015 10th International Joint Conference on Software Technologies (ICSOFT)
+Y1  - 20-22 July 2015
+AB  - Several countries prescribe or advise government departments and organizations to perform a privacy impact assessment (PIA) if these prepare new projects or change existing ones that involve personal information. A PIA shall summarize what personal information is collected, processed, stored, and distributed in the context of the project. But there is only little support for undertaking a PIA and to create a PIA report, most countries only provide vague guidelines and simple templates. We present in this paper an extension of the problem-based privacy analysis (ProPAn) method that derives information needed to conduct a PIA from a requirements model in problem frame notation. We provide a formally specified method with well-defined steps and tool support to reduce the effort to be spent for eliciting the needed information and to ensure that the needed information is as complete and coherent as possible to form an adequate basis for the creation of a PIA report.
+ER  - 
+
+TY  - CONF
+TI  - The Processing goes far beyond "the app" – Privacy issues of decentralized Digital Contact Tracing using the example of the German Corona-Warn-App
+T2  - 2022 6th International Conference on Cryptography, Security and Privacy (CSP)
+SP  - 16
+EP  - 20
+AU  - R. Rehak
+AU  - C. R. Kühne
+PY  - 2022
+DO  - 10.1109/CSP55486.2022.00011
+JO  - 2022 6th International Conference on Cryptography, Security and Privacy (CSP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 6th International Conference on Cryptography, Security and Privacy (CSP)
+Y1  - 14-16 Jan. 2022
+AB  - Since SARS-CoV-2 started spreading in Europe in early 2020, there has been a strong call for technical solutions to combat or contain the pandemic, with contact tracing apps at the heart of the debates. The EU’s General Data Protection Regulation (GDPR) requires controllers to carry out a data protection impact assessment (DPIA) where their data processing is likely to result in a high risk to the rights and freedoms (Art. 35 GDPR). A DPIA is a structured risk analysis that identifies and evaluates possible consequences of data processing relevant to fundamental rights in advance and describes the measures envisaged to address these risks or expresses the inability to do so.Based on the Standard Data Protection Model (SDM), we present the results of a scientific and methodologically clear DPIA. It shows that even a decentralized architecture involves numerous serious weaknesses and risks, including larger ones still left unaddressed in current implementations. It also found that none of the proposed designs operates on anonymous data or ensures proper anonymisation. It also showed that informed consent would not be a legitimate legal ground for the processing. For all points where data subjects’ rights are still not sufficiently safeguarded, we briefly outline solutions.
+ER  - 
+
+TY  - CONF
+TI  - Regulatory recommendations for IoT smart-health care services by using privacy impact assessment (PIA)
+T2  - 2017 15th International Conference on Quality in Research (QiR) : International Symposium on Electrical and Computer Engineering
+SP  - 491
+EP  - 496
+AU  - I. L. Pribadi
+AU  - M. Suryanegara
+PY  - 2017
+DO  - 10.1109/QIR.2017.8168535
+JO  - 2017 15th International Conference on Quality in Research (QiR) : International Symposium on Electrical and Computer Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 15th International Conference on Quality in Research (QiR) : International Symposium on Electrical and Computer Engineering
+Y1  - 24-27 July 2017
+AB  - This paper aims to propose regulatory recommendations for IoT smart-health care service, by using the method of Privacy Impact Assessment (PIA). We utilize data from a relevant IoT smart-health care project in Indonesia. On structuring the final regulatory recommendations, we have conducted in-depth interview to the stake holders of Indonesian IoT smart-health care service. The results show that there are 5 aspects that need to be set in the proposed regulations, i.e. security compliance, device security, secure communications, virtualization security, and application security. In each of that aspect, we have built specific recommendation to ensure IoT service provider giving the best service without decreasing comfort of private information protection.
+ER  - 
+
+TY  - CONF
+TI  - Emerging Biometric Modalities and their Use: Loopholes in the Terminology of the GDPR and Resulting Privacy Risks
+T2  - 2021 International Conference of the Biometrics Special Interest Group (BIOSIG)
+SP  - 1
+EP  - 5
+AU  - T. Bisztray
+AU  - N. Gruschka
+AU  - T. Bourlai
+AU  - L. Fritsch
+PY  - 2021
+DO  - 10.1109/BIOSIG52210.2021.9548298
+JO  - 2021 International Conference of the Biometrics Special Interest Group (BIOSIG)
+IS  - 
+SN  - 1617-5468
+VO  - 
+VL  - 
+JA  - 2021 International Conference of the Biometrics Special Interest Group (BIOSIG)
+Y1  - 15-17 Sept. 2021
+AB  - Technological advancements allow biometric applications to be more omnipresent than in any other time before. This paper argues that in the current EU data protection regulation, classification applications using biometric data receive less protection compared to biometric recognition. We analyse preconditions in the regulatory language and explore how this has the potential to be the source of unique privacy risks for processing operations classifying individuals based on soft traits like emotions. This can have high impact on personal freedoms and human rights and, therefore, should be subject to data protection impact assessment.
+ER  - 
+
+TY  - CONF
+TI  - Privacy Protection in LTE and 5G Networks
+T2  - 2021 2nd International Conference on Secure Cyber Computing and Communications (ICSCCC)
+SP  - 382
+EP  - 387
+AU  - U. Gorrepati
+AU  - P. Zavarsky
+AU  - R. Ruhl
+PY  - 2021
+DO  - 10.1109/ICSCCC51823.2021.9478109
+JO  - 2021 2nd International Conference on Secure Cyber Computing and Communications (ICSCCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 2nd International Conference on Secure Cyber Computing and Communications (ICSCCC)
+Y1  - 21-23 May 2021
+AB  - Privacy needs to be secured in cellular networks. In the domain of telecommunications, privacy attributes to personal information and subscriber identity. In service providing organizations, privacy impact assessment is performed to identify possible risks to business operations of the organizations caused by collecting personally identifiable information and to ensure compliance with applicable legal, regulatory and policy requirements for privacy protection. However, privacy risks can be estimated not only from organizations' business but also from customers' perspectives. While there are many tools, techniques and templates available assisting organizations in performing privacy impact assessments, the subscribers,' in most cases subjective, perspective on privacy risks has not attracted too much attention by research communities. The paper intends to show the existence of the gap and to contribute towards the understanding of privacy aspects of LTE and 5G networks from subscribers' perspective. This paper first outlines the main vulnerabilities that can be exploited to violate subscriber privacy in LTE networks. Then, controls to mitigate privacy risks in 5G networks are evaluated. The paper also discusses privacy risks introduced by new technologies, including software defined networking (SDN), network function virtualization (NFV) and cloud computing in 5G networks. The privacy risk assessment in LTE and 5G networks is performed from the perspective of customers, not from the perspective of service providers. Protection of subscriber's privacy in the 6G networks is also briefly discussed.
+ER  - 
+
+TY  - CONF
+TI  - The Internet of Things ecosystem: The blockchain and privacy issues. The challenge for a global privacy standard
+T2  - 2017 International Conference on Internet of Things for the Global Community (IoTGC)
+SP  - 1
+EP  - 7
+AU  - N. Fabiano
+PY  - 2017
+DO  - 10.1109/IoTGC.2017.8008970
+JO  - 2017 International Conference on Internet of Things for the Global Community (IoTGC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Internet of Things for the Global Community (IoTGC)
+Y1  - 10-13 July 2017
+AB  - The IoT is innovative and important phenomenon prone to several services and applications, but it should consider the legal issues related to the data protection law. However, should be taken into account the legal issues related to the data protection and privacy law. Technological solutions are welcome, but it is necessary, before developing applications, to consider the risks which we cannot dismiss. Personal data is a value. In this context it is fundamental to evaluate the legal issues and prevent them, adopting in each project the privacy by design approach. Regarding the privacy and security risks, there are some issues with potential consequences for data and liability. The IoT system allows us to transfer data on the Internet, including personal data. In this context, it is important to consider the new European General Data Protection Regulation (GDPR) that will be in force on 25 May 2018. The GDPR introduces Data Protection Impact Assessment (DPIA), data breach notification and very hard administrative fines in respect of infringements of the Regulation. A correct law analysis allows evaluating risks preventing the wrong use of personal data. The contribution describes the main legal issues related to privacy and data protection focusing on the Privacy by Design approach, according to the GDPR. Furthermore, I resolutely believe that is possible to develop a global privacy standard framework that organisations can use for their data protection activities.
+ER  - 
+
+TY  - STD
+TI  - IEEE Standard for Data Privacy Process
+T2  - IEEE Std 7002-2022
+SP  - 1
+EP  - 41
+PY  - 2022
+DO  - 10.1109/IEEESTD.2022.9760247
+JO  - IEEE Std 7002-2022
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 7002-2022
+Y1  - 19 April 2022
+AB  - The requirements for a systems/software engineering process for privacy-oriented considerations regarding products, services, and systems utilizing employee, customer, or other external user’s personal data are defined by this standard. Organizations and projects that are developing and deploying products, systems, processes, and applications that involve personal information are candidate users of the IEEE Std 7002™ standard. Specific procedures, diagrams, and checklists are provided for users of the IEEE Std 7002 standard to perform conformity assessments on their specific privacy practices. Privacy impact assessments (PIAs) are described as a tool for both identifying where privacy controls and measures are needed and for confirming they are in place. (The PDF of this standard is available in the IEEE GET Program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=93)
+ER  - 
+
+TY  - CONF
+TI  - Based on GDPR privacy in UML: Case of e-learning program
+T2  - 2017 8th International Conference on Information, Intelligence, Systems & Applications (IISA)
+SP  - 1
+EP  - 8
+AU  - E. Mougiakou
+AU  - M. Virvou
+PY  - 2017
+DO  - 10.1109/IISA.2017.8316456
+JO  - 2017 8th International Conference on Information, Intelligence, Systems & Applications (IISA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 8th International Conference on Information, Intelligence, Systems & Applications (IISA)
+Y1  - 27-30 Aug. 2017
+AB  - Data privacy regulatory framework is evolving. The long awaited EU General Data Protection Regulation (GDPR) sets new standards by increasing and improving online personal data protection (i.e. privacy). In order for informatics to take and safeguard a firm compliance stand, privacy concerns should be addressed both by design and by default. In the same time special attention is needed as to avoid smothering the added value provided by the (vast) quantity and (low) cost of web-residing-information. By combining regulation, information privacy and best practices into UML use case diagrams, paper in hand examines GDPR requirements by utilizing the educational e-platform paradigm “Law Courses”1. Ultimately it aims to equip engineers with a GDPR-standards compatible software incorporation case.
+ER  - 
+
+TY  - CONF
+TI  - Analysing Privacy Conflicts in Web-Based Systems
+T2  - 2021 IEEE 29th International Requirements Engineering Conference (RE)
+SP  - 430
+EP  - 431
+AU  - P. Inglis
+AU  - I. Omoronyia
+PY  - 2021
+DO  - 10.1109/RE51729.2021.00055
+JO  - 2021 IEEE 29th International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2021 IEEE 29th International Requirements Engineering Conference (RE)
+Y1  - 20-24 Sept. 2021
+AB  - Data protection Impact Assessments (DPIA) are used to assess how well a series of design choices safeguard the privacy concerns of data subjects, but they don’t address how to analyse privacy conflicts. The challenge with current work on privacy conflict is the necessity to understand the perceived levels of sensitivity to facilitate negotiations. It is unclear how this can be achieved in DPIA procedure. In this work we introduce our model checking tool along with our method to address privacy conflict. We present our evaluation plan before concluding with our research roadmap.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Privacy in Robotics via Judicious Sensor Selection
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7156
+EP  - 7165
+AU  - S. Eick
+AU  - A. I. Antón
+PY  - 2020
+DO  - 10.1109/ICRA40945.2020.9196983
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+AB  - Roboticists are grappling with how to address privacy in robot design at a time when regulatory frameworks around the world increasingly require systems to be engineered to preserve and protect privacy. This paper surveys the top robotics journals and conferences over the past four decades to identify contributions with respect to privacy in robot design. Our survey revealed that less than half of one percent of the ~89,120 papers in our study even mention the word privacy. Herein, we propose privacy preserving approaches for roboticists to employ in robot design, including, assessing a robot's purpose and environment; ensuring privacy by design by selecting sensors that do not collect information that is not essential to the core objectives of that robot; embracing both privacy and performance as fundamental design challenges to be addressed early in the robot lifecycle; and performing privacy impact assessments.
+ER  - 
+
+TY  - CONF
+TI  - Human Biodata Governance: Addressing the Tension Between Innovation and Protection Through DPIAs
+T2  - 2023 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)
+SP  - 1
+EP  - 7
+AU  - E. Demir
+PY  - 2023
+DO  - 10.1109/CIBCB56990.2023.10264903
+JO  - 2023 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)
+Y1  - 29-31 Aug. 2023
+AB  - In the area of human biodata governance, one of the most pressing questions is how to address the trade-off between promoting innovation and safeguarding the fundamental rights and freedoms that arise from the development, deployment, and use of AI and data processing. This paper considers that this trade-off poses a dilemma and raises the question of how to achieve governance that promotes biotechnological innovation and research while protecting the fundamental rights and values of individuals and groups. The aim of this paper is to explore regulatory instruments in the EU data protection law that can strike a balance between innovation and protection in the governance of human biodata. To this end, it focuses on meta-regulation as a regulatory technique and examines data protection impact assessment (DPIA) as a method for addressing the tension between innovation and protection. Based on doctrinal legal analysis, it argues that while DPIA is a useful instrument to seek a solution in this dilemma, further reflection and clarification are needed to improve the methods of conducting the impact assessment.
+ER  - 
+
+TY  - CONF
+TI  - PABAU: Privacy Analysis of Biometric API Usage
+T2  - 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta)
+SP  - 2301
+EP  - 2308
+AU  - F. Tang
+PY  - 2022
+DO  - 10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00327
+JO  - 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta)
+Y1  - 15-18 Dec. 2022
+AB  - Biometric data privacy is becoming a major concern for many organizations in the age of big data, particularly in the ICT sector, because it may be easily exploited in apps. Most apps utilize biometrics by accessing common application programming interfaces (APIs); hence, we aim to categorize their usage. The categorization based on behavior may be closely correlated with the sensitive processing of a user’s biometric data, hence highlighting crucial biometric data privacy assessment concerns. We propose PABAU, Privacy Analysis of Biometric API Usage. PABAU learns semantic features of methods in biometric APIs and uses them to detect and categorize the usage of biometric API implementation in the software according to their privacy-related behaviors. This technique bridges the communication and background knowledge gap between technical and non-technical individuals in organizations by providing an automated method for both parties to acquire a rapid understanding of the essential behaviors of biometric API in apps, as well as future support to data protection officers (DPO) with legal documentation, such as conducting a Data Protection Impact Assessment (DPIA).
+ER  - 
+
+TY  - CONF
+TI  - GDPR Impact on Computational Intelligence Research
+T2  - 2018 International Joint Conference on Neural Networks (IJCNN)
+SP  - 1
+EP  - 7
+AU  - K. Crockett
+AU  - S. Goltz
+AU  - M. Garratt
+PY  - 2018
+DO  - 10.1109/IJCNN.2018.8489614
+JO  - 2018 International Joint Conference on Neural Networks (IJCNN)
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2018 International Joint Conference on Neural Networks (IJCNN)
+Y1  - 8-13 July 2018
+AB  - The General Data Protection Regulation (GDPR) will become a legal requirement for all organizations in Europe from 25th May 2018 which collect and process data. One of the major changes detailed in Article 22 of the GDPR includes the rights of an individual not to be subject to automated decisionmaking, which includes profiling, unless explicit consent is given. Individuals who are subject to such decision-making have the right to ask for an explanation on how the decision is reached and organizations must utilize appropriate mathematics and statistical procedures. All data collected, including research projects require a privacy by design approach as well as the data controller to complete a Data Protection Impact Assessment in addition to gaining ethical approval. This paper discusses the impact of the GDPR on research projects which contain elements of computational intelligence undertaken within a University or with an Academic Partner.
+ER  - 
+
+TY  - CONF
+TI  - Methods and Tools for GDPR Compliance Through Privacy and Data Protection Engineering
+T2  - 2018 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+SP  - 108
+EP  - 111
+AU  - Y. -S. Martin
+AU  - A. Kung
+PY  - 2018
+DO  - 10.1109/EuroSPW.2018.00021
+JO  - 2018 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+Y1  - 23-27 April 2018
+AB  - In this position paper we posit that, for Privacy by Design to be viable, engineers must be effectively involved and endowed with methodological and technological tools closer to their mindset, and which integrate within software and systems engineering methods and tools, realizing in fact the definition of Privacy Engineering. This position will be applied in the soon-to-start PDP4E project, where privacy will be introduced into existent general-purpose software engineering tools and methods, dealing with (risk management, requirements engineering, model-driven design, and software/systems assurance).
+ER  - 
+
+TY  - CONF
+TI  - A Privacy Safeguard Framework for a WebRTC/WoT-Based Healthcare Architecture
+T2  - 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC)
+SP  - 468
+EP  - 473
+AU  - S. El Jaouhari
+AU  - A. Bouabdallah
+PY  - 2018
+DO  - 10.1109/COMPSAC.2018.10278
+JO  - 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC)
+IS  - 
+SN  - 0730-3157
+VO  - 02
+VL  - 02
+JA  - 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC)
+Y1  - 23-27 July 2018
+AB  - In this paper, an e-health architecture offering secure remote medical services using WebRTC (Web Real-Time Communication) enhanced with contextual health information coming from medical connected sensors, is proposed and analyzed. The goal is to allow patients (injured, elderly, disabled, etc.) to benefit from a medical assistance just by calling a remote medical support (doctors, nurses, etc.) using a real-time communication technology such as WebRTC. Moreover, the advancement of the medical devices, on one side, and the emergence of the Web of Things (WoT), on the other side, makes this approach possible. Hence, granting the users the ability of monitoring their own health status and an awareness of their health condition. However, in such architectures, in order for the users to access these services, they need to provide and exchange personal data, and in particular the health related ones. Therefore, user's private information may be exposed to privacy violation and disclosure. Understanding the privacy holes regarding the protection of the personal health related data, identifying the privacy leakage points and studying the privacy requirements are important in order to propose a privacy safeguard for the proposed healthcare architecture, which is the aim of this paper. Additionally, a risk analysis, the sources of these risks and the possible countermeasures are also conducted during this process.
+ER  - 
+
+TY  - CONF
+TI  - A Privacy-Aware V-Model for Software Development
+T2  - 2019 IEEE Security and Privacy Workshops (SPW)
+SP  - 100
+EP  - 104
+AU  - A. Al-Momani
+AU  - F. Kargl
+AU  - R. Schmidt
+AU  - A. Kung
+AU  - C. Bösch
+PY  - 2019
+DO  - 10.1109/SPW.2019.00028
+JO  - 2019 IEEE Security and Privacy Workshops (SPW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE Security and Privacy Workshops (SPW)
+Y1  - 19-23 May 2019
+AB  - After the adoption of new data protection regulations, like GDPR, proper treatment of privacy throughout the system development lifecycle has become a must. In this paper, we discuss several aspects to more easily and effectively integrate privacy engineering in system development and how to bring the notion of privacy-by-design into practice. We propose the new W-model as a privacy-aware extension of the V-model frequently used in software engineering. One stage of the W-model deals with analyzing privacy in the system where privacy engineers conduct a privacy impact assessment in order to elicit privacy threats and to find a suitable countermeasure to remedy each threat. With respect to finding suitable countermeasures, we provide requirements the countermeasures need to meet in order to be selected. In addition, we introduce a cost function that assists privacy engineers in selecting the most suitable countermeasure. Furthermore, we point out several open issues that future work needs to address.
+ER  - 
+
+TY  - CONF
+TI  - A Threat Model for Soft Privacy on Smart Cars
+T2  - 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+SP  - 1
+EP  - 10
+AU  - M. Raciti
+AU  - G. Bella
+PY  - 2023
+DO  - 10.1109/EuroSPW59978.2023.00005
+JO  - 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+IS  - 
+SN  - 2768-0657
+VO  - 
+VL  - 
+JA  - 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+Y1  - 3-7 July 2023
+AB  - Modern cars are getting so computerised that ENISA’s phrase “smart cars” is a perfect fit. The amount of personal data that they process is very large and, yet, increasing. Hence, the need to address citizens’ privacy while they drive and, correspondingly, the importance of privacy threat modelling (in support of a respective risk assessment, such as through a Data Protection Impact Assessment). This paper addresses privacy threats by advancing a general modelling methodology and by demonstrating it specifically on soft privacy, which ensures citizens’ full control on their personal data. By considering all relevant threat agents, the paper applies the methodology to the specific automotive domain while keeping threats at the same level of detail as ENISA’s. The main result beside the modelling methodology consists of both domain-independent and automotive domain-dependent soft privacy threats. While cybersecurity has been vastly threat-modelled so far, this paper extends the literature with a threat model for soft privacy on smart cars, producing 17 domain-independent threats that, associated with 41 domain-specific assets, shape a novel set of domain-dependent threats in automotive.
+ER  - 
+
+TY  - STD
+TI  - IEEE Draft Standard for Data Privacy Process
+T2  - IEEE P7002/D7, February 2021
+SP  - 1
+EP  - 40
+PY  - 2021
+DO  - 
+JO  - IEEE P7002/D7, February 2021
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P7002/D7, February 2021
+Y1  - 19 Feb. 2021
+AB  - The requirements for a systems/software engineering process for privacy-oriented considerations regarding products, services, and systems utilizing employee, customer, or other external user’s personal data are defined by this standard. Organizations and projects that are developing and deploying products, systems, processes, and applications that involve personal information are candidate users of the IEEE Std 7002™ standard. Specific procedures, diagrams, and checklists are provided for users of the IEEE Std 7002 standard to perform conformity assessments on their specific privacy practices. Privacy impact assessments (PIAs) are described as a tool for both identifying where privacy controls and measures are needed and for confirming they are in place.
+ER  - 
+
+TY  - STD
+TI  - IEEE Draft Standard for Data Privacy Process
+T2  - IEEE P7002/D8, September 2021
+SP  - 1
+EP  - 43
+PY  - 2021
+DO  - 
+JO  - IEEE P7002/D8, September 2021
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P7002/D8, September 2021
+Y1  - 22 Oct. 2021
+AB  - The requirements for a systems/software engineering process for privacy-oriented considerations regarding products, services, and systems utilizing employee, customer, or other external user’s personal data are defined by this standard. Organizations and projects that are developing and deploying products, systems, processes, and applications that involve personal information are candidate users of the IEEE Std 7002™ standard. Specific procedures, diagrams, and checklists are provided for users of the IEEE Std 7002 standard to perform conformity assessments on their specific privacy practices. Privacy impact assessments (PIAs) are described as a tool for both identifying where privacy controls and measures are needed and for confirming they are in place.
+ER  - 
+
+TY  - STD
+TI  - IEEE Approved Draft Standard for Data Privacy Process
+T2  - IEEE P7002/D9, December 2021
+SP  - 1
+EP  - 42
+PY  - 2022
+DO  - 
+JO  - IEEE P7002/D9, December 2021
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P7002/D9, December 2021
+Y1  - 11 Feb. 2022
+AB  - The requirements for a systems/software engineering process for privacy-oriented considerations regarding products, services, and systems utilizing employee, customer, or other external user’s personal data are defined by this standard. Organizations and projects that are developing and deploying products, systems, processes, and applications that involve personal information are candidate users of the IEEE Std 7002™ standard. Specific procedures, diagrams, and checklists are provided for users of the IEEE Std 7002 standard to perform conformity assessments on their specific privacy practices. Privacy impact assessments (PIAs) are described as a tool for both identifying where privacy controls and measures are needed and for confirming they are in place.
+ER  - 
+
+TY  - JOUR
+TI  - Minimizing Technology Ricks with PIAs, Precaution, and Participation
+T2  - IEEE Technology and Society Magazine
+SP  - 47
+EP  - 54
+AU  - D. Wright
+AU  - R. Gellert
+AU  - S. Gutwirth
+AU  - M. Friedewald
+PY  - 2011
+DO  - 10.1109/MTS.2011.943460
+JO  - IEEE Technology and Society Magazine
+IS  - 4
+SN  - 1937-416X
+VO  - 30
+VL  - 30
+JA  - IEEE Technology and Society Magazine
+Y1  - winter 2011
+AB  - Privacy impact assessment can be a tool for responsible research and innovation (RRI). RRI can be defined as a transparent, interactive process by which societal actors and innovators become mutually responsive to each other. In order to allow a proper embedding of scientific and technological advances in society, actors and innovators keep in mind ethical acceptability, sustainability, and societal desirability of the innovation process and its marketable products. This definition of RRI is close to the definition of privacy impact assessment (PIA). PIA is a process of engaging stakeholders to consider the impact of a new technology, product, service, project, or policy on privacy, and what measures could be taken to avoid or mitigate unwanted effects. In this light, PIA is also an instrument of risk governance that should be understood and implemented within the framework of the precautionary principle. Precaution is a theoretical framework of action in the face of uncertain risks. After considering the precautionary principle from a conceptual point of view, we consider privacy impact assessment in practice. We conclude that by integrating PIA within risk governance, one can also address the problem of balancing privacy and other values.
+ER  - 
+
+TY  - CONF
+TI  - How-to Express Explicit and Auditable Consent
+T2  - 2018 16th Annual Conference on Privacy, Security and Trust (PST)
+SP  - 1
+EP  - 5
+AU  - A. C. Carvalho
+AU  - R. Martins
+AU  - L. Antunes
+PY  - 2018
+DO  - 10.1109/PST.2018.8514204
+JO  - 2018 16th Annual Conference on Privacy, Security and Trust (PST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 16th Annual Conference on Privacy, Security and Trust (PST)
+Y1  - 28-30 Aug. 2018
+AB  - While the importance of consent request in today's society is increasing, specially online as a lawful basis for the processing of personal data, no detailed analysis of current technological solutions is available. In this work, we describe the existing technological solutions to express online consent in a positive fashion, including all the properties that an online solution should hold. We conclude by offering a risk proposal based on the linear combination of the rating of each one of these properties. We observe a low agreement between observers, highlighting that it is not easy to fulfill the requirements of the GDPR and showing that these studies are important when performing a Data Protection Impact Assessment. To overcome the low agreement, we propose the median of the observers' rate.
+ER  - 
+
+TY  - CONF
+TI  - Incorporating Privacy Outcomes: Teaching an Old Dog New Tricks
+T2  - 2008 Sixth Annual Conference on Privacy, Security and Trust
+SP  - 232
+EP  - 239
+AU  - E. Brown
+AU  - T. A. Kosa
+PY  - 2008
+DO  - 10.1109/PST.2008.27
+JO  - 2008 Sixth Annual Conference on Privacy, Security and Trust
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 Sixth Annual Conference on Privacy, Security and Trust
+Y1  - 1-3 Oct. 2008
+AB  - Canadian government bodies are subject to a number of requirements, including legislation, regulations,directives and policies, that speaks to informational privacy. These have come to be considered synonymous with the completion of a Privacy Impact Assessment. Some go so far as to specifically require an assessment, but few speak to specific technical content. Nor are there process requirements for sustaining privacy standards once the assessment document is submitted. At best, recommendations are identified to enhance the privacy posture of a program area's information management practices, but there is no mechanism to ensure that they are implemented. We propose the PIA process be adapted to mandate privacy outcomes in terms of specific actions that must betaken once the assessment is complete. Starting with the established PIA document, the program area can identify how to best marry the privacy requirements with the established business processes supporting the service delivery line. The result would incorporate privacy outcomes as ongoing activities and include not only consideration of agency requirements for personal information management, but also the impact to an individual's informational privacy.
+ER  - 
+
+TY  - CONF
+TI  - Privacy Risk Assessment in Privacy Requirements Engineering
+T2  - 2009 Second International Workshop on Requirements Engineering and Law
+SP  - 17
+EP  - 18
+AU  - S. Abu-Nimeh
+AU  - N. R. Mead
+PY  - 2009
+DO  - 10.1109/RELAW.2009.10
+JO  - 2009 Second International Workshop on Requirements Engineering and Law
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 Second International Workshop on Requirements Engineering and Law
+Y1  - 1-1 Sept. 2009
+AB  - In spite of the overlap between privacy requirements engineering and security requirements engineering, each addresses a different set of problems. As a result, security risk assessment techniques used in security requirements engineering may be unsuitable to assess privacy risks. This paper proposes considering security risk assessment along with privacy impact and risk assessment approaches using the Security Quality Requirements Engineering (SQUARE) method. The study focuses on PIA and HIPAA as privacy risk assessment techniques.
+ER  - 
+
+TY  - CONF
+TI  - PRIPARE: Integrating Privacy Best Practices into a Privacy Engineering Methodology
+T2  - 2015 IEEE Security and Privacy Workshops
+SP  - 151
+EP  - 158
+AU  - N. Notario
+AU  - A. Crespo
+AU  - Y. -S. Martin
+AU  - J. M. Del Alamo
+AU  - D. L. Metayer
+AU  - T. Antignac
+AU  - A. Kung
+AU  - I. Kroener
+AU  - D. Wright
+PY  - 2015
+DO  - 10.1109/SPW.2015.22
+JO  - 2015 IEEE Security and Privacy Workshops
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Security and Privacy Workshops
+Y1  - 21-22 May 2015
+AB  - Data protection authorities worldwide have agreed on the value of considering privacy-by-design principles when developing privacy-friendly systems and software. However, on the technical plane, a profusion of privacy-oriented guidelines and approaches coexists, which provides partial solutions to the overall problem and aids engineers during different stages of the system development lifecycle. As a result, engineers find difficult to understand what they should do to make their systems abide by privacy by design, thus hindering the adoption of privacy engineering practices. This paper reviews existing best practices in the analysis and design stages of the system development lifecycle, introduces a systematic methodology for privacy engineering that merges and integrates them, leveraging their best features whilst addressing their weak points, and describes its alignment with current standardization efforts.
+ER  - 
+
+TY  - JOUR
+TI  - A Conceptual Framework to Ensure Privacy in Patient Record Management System
+T2  - IEEE Access
+SP  - 165667
+EP  - 165689
+AU  - F. H. Semantha
+AU  - S. Azam
+AU  - B. Shanmugam
+AU  - K. C. Yeo
+AU  - A. R. Beeravolu
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3134873
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Privacy has become an increasingly significant apprehension in today’s rapidly changing economy primarily for personal and sensitive user data. The levels of personal data violation are increasing day by day however privacy-preserving frameworks are available. This paper conducted an in-depth analysis of contemporary frameworks to identify the key mechanisms to produce a sophisticated data privacy framework to reduce the rate of data breach particularly for the Patient Record Management System (PRMS). There are several studies available that stated healthcare data privacy, still, complete data protection solution with the application of privacy by design towards patients’ health data by ensuring privacy in each layer of the PRMS are quite limited, which is the focus of this study. PRMS manages personal and sensitive data while delivering healthcare services to the patients and as such, have also the potential to carry significant risks to the privacy of their data. A novel conceptual framework with three distinct and sequential phases is suggested in this research, each of which is defined in a distinct section. The first phase is defined as the planning to identify the key limitations of contemporary frameworks so these can be minimized to ensure privacy in each layer of data processing. The second phase incorporates the key components of data privacy to satisfy the efficiency and effectiveness of the proposed framework. Finally, the third phase is the implementation of the selected requirements of the assessment phase to prevent privacy incursion events in PRMS. The complete framework is anticipated to deliver a sophisticated resistance in contradiction to the continuous data breaches in the patients’ information domain.
+ER  - 
+
+TY  - CONF
+TI  - BRAIN-IoT: Model-Based Framework for Dependable Sensing and Actuation in Intelligent Decentralized IoT Systems
+T2  - 2019 4th International Conference on Computing, Communications and Security (ICCCS)
+SP  - 1
+EP  - 8
+AU  - D. Conzon
+AU  - M. R. A. Rashid
+AU  - X. Tao
+AU  - A. Soriano
+AU  - R. Nicholson
+AU  - E. Ferrera
+PY  - 2019
+DO  - 10.1109/CCCS.2019.8888136
+JO  - 2019 4th International Conference on Computing, Communications and Security (ICCCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 4th International Conference on Computing, Communications and Security (ICCCS)
+Y1  - 10-12 Oct. 2019
+AB  - Modern applications in the Smart Building and Industry 4.0 scenarios will be complex software ecosystems with strict requirements of geographic distribution, heterogeneity, dynamic evolution, security and privacy protection, highly more challenging than the ones required by the current environments. Two of the main challenges arising in the current Internet Of Things scenarios, i.e., the Smart Building one, are, on one side, the requirement of interconnecting several heterogeneous platforms and smart Things in the same environment and, on the other side, the need to be able to evolve the complex software ecosystem deployed, reacting automatically and at runtime to environmental changes, without the human intervention. To address these challenges, BRAIN-IoT establishes a framework and methodology supporting smart cooperative behaviour in fully de-centralized, composable and dynamic federations of heterogeneous Internet of Things platforms. In this way, BRAIN-IoT enables smart autonomous behaviour in Internet of Things scenarios, involving heterogeneous sensors and actuators autonomously cooperating to execute complex, dynamic tasks. Furthermore, BRAIN-IoT enables dynamically deploying and orchestrating distributed applications, allowing the automatic installation and replacement of smart behaviours reacting to environmental changes and User events. Finally, BRAIN-IoT provides a set of components that guarantee the security and privacy protection of the data exchanged using the solution. BRAIN-IoT is a general purpose solution that aims at being adaptable for heterogeneous scenarios, from Service Robotics to Critical Infrastructure Management. This paper introduces a Smart Building use case of the solution, which allows highlighting the advantages given by BRAIN-IoT in such scenario.
+ER  - 
+
+TY  - CONF
+TI  - Embedded RFID and Everyday Things: A Case Study of the Security and Privacy Risks of the U.S. e-Passport
+T2  - 2007 IEEE International Conference on RFID
+SP  - 7
+EP  - 14
+AU  - M. Meingast
+AU  - J. King
+AU  - D. K. Mulligan
+PY  - 2007
+DO  - 10.1109/RFID.2007.346143
+JO  - 2007 IEEE International Conference on RFID
+IS  - 
+SN  - 2374-0221
+VO  - 
+VL  - 
+JA  - 2007 IEEE International Conference on RFID
+Y1  - 26-28 March 2007
+AB  - New applications for Radio Frequency Identification (RFID) technology include embedding transponders in everyday things used by individuals, such as books, payment cards, and personal identification. While RFID technology has existed for decades, these new applications carry with them substantial new privacy and security risks for individuals. These risks arise due to a combination of aspects involved in these applications: (1) The transponders are permanently embedded in objects individuals commonly carry with them (2) Static data linkable to an individual is stored on these transponders (3) The objects these transponders are embedded in are used in public places where individuals have limited control over who can access data on the transponder. In 2002, the U.S. Department of State proposed the adoption of an "electronic passport," which embedded RFID transponders into U.S. passports for identification and document security purposes. In this paper, we use the U.S. Government's adoption process for the electronic passport as a case study for identifying the privacy and security risks that arise by embedding RFID technology in "everyday things." We discuss the reasons why the Department of State did not adequately identify and address these privacy and security risks, even after the government's process mandated a privacy impact assessment. We conclude with recommendations to assist government as well as industry in early identification and resolution of relevant risks posed by RFID technology embedded in everyday things.
+ER  - 
+
+TY  - CONF
+TI  - Experiences in the Development and Usage of a Privacy Requirements Framework
+T2  - 2016 IEEE 24th International Requirements Engineering Conference (RE)
+SP  - 293
+EP  - 302
+AU  - I. Oliver
+PY  - 2016
+DO  - 10.1109/RE.2016.59
+JO  - 2016 IEEE 24th International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2016 IEEE 24th International Requirements Engineering Conference (RE)
+Y1  - 12-16 Sept. 2016
+AB  - Any reasonable implementation of privacy requirements can not be made through legal compliance alone. The belief that a software system can be developed without privacy being an integral concept, or that a privacy policy is sufficient as requirements or compliance check is at best dangerous for the users, customers and business involved. While requirements frameworks exist, the specialisation of these into the privacy domain have not been made in such a manner that they unify both the legal and engineering domains. In order to achieve this one must develop ontological structures to aid communication between these domains, provide a commonly acceptable semantics and a framework by which requirements expressed at different levels of abstractness can be linked together and support refinement. An effect of this is to almost completely remove the terms 'personal data' and 'PII' from common usage and force a deeper understanding of the data and information being processed. Once such a structure is in place - even if just partially or sparsely populated - provides a formal framework by which not only requirements can be obtained, their application (or not) be justified and a proper risk analysis made. This has further advantages in that privacy requirements and their potential implementations can be explored through the software development process and support ideas such as agile methods and 'DevOps' rather than being an 'add-on' exercise - a privacy impact assessment - poorly executed at inappropriate times.
+ER  - 
+
+TY  - CONF
+TI  - mHealth: A Privacy Threat Analysis for Public Health Surveillance Systems
+T2  - 2018 IEEE 31st International Symposium on Computer-Based Medical Systems (CBMS)
+SP  - 42
+EP  - 47
+AU  - L. H. Iwaya
+AU  - S. Fischer-Hübner
+AU  - R. -M. Åhlfeldt
+AU  - L. A. Martucci
+PY  - 2018
+DO  - 10.1109/CBMS.2018.00015
+JO  - 2018 IEEE 31st International Symposium on Computer-Based Medical Systems (CBMS)
+IS  - 
+SN  - 2372-9198
+VO  - 
+VL  - 
+JA  - 2018 IEEE 31st International Symposium on Computer-Based Medical Systems (CBMS)
+Y1  - 18-21 June 2018
+AB  - Community Health Workers (CHWs) have been using Mobile Health Data Collection Systems (MDCSs) for supporting the delivery of primary healthcare and carrying out public health surveys, feeding national-level databases with families' personal data. Such systems are used for public surveillance and to manage sensitive data (i.e., health data), so addressing the privacy issues is crucial for successfully deploying MDCSs. In this paper we present a comprehensive privacy threat analysis for MDCSs, discuss the privacy challenges and provide recommendations that are specially useful to health managers and developers. We ground our analysis on a large-scale MDCS used for primary care (GeoHealth) and a well-known Privacy Impact Assessment (PIA) methodology. The threat analysis is based on a compilation of relevant privacy threats from the literature as well as brain-storming sessions with privacy and security experts. Among the main findings, we observe that existing MDCSs do not employ adequate controls for achieving transparency and interveinability. Thus, threatening fundamental privacy principles regarded as data quality, right to access and right to object. Furthermore, it is noticeable that although there has been significant research to deal with data security issues, the attention with privacy in its multiple dimensions is prominently lacking.
+ER  - 
+
+TY  - CONF
+TI  - A Named Entity Recognition Based Approach for Privacy Requirements Engineering
+T2  - 2021 IEEE 29th International Requirements Engineering Conference Workshops (REW)
+SP  - 406
+EP  - 411
+AU  - G. B. Herwanto
+AU  - G. Quirchmayr
+AU  - A. M. Tjoa
+PY  - 2021
+DO  - 10.1109/REW53955.2021.00072
+JO  - 2021 IEEE 29th International Requirements Engineering Conference Workshops (REW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 29th International Requirements Engineering Conference Workshops (REW)
+Y1  - 20-24 Sept. 2021
+AB  - The presence of experts, such as a data protection officer (DPO) and a privacy engineer is essential in Privacy Requirements Engineering. This task is carried out in various forms including threat modeling and privacy impact assessment. The knowledge required for performing privacy threat modeling can be a serious challenge for a novice privacy engineer. We aim to bridge this gap by developing an automated approach via machine learning that is able to detect privacy-related entities in the user stories. The relevant entities include (1) the Data Subject, (2) the Processing, and (3) the Personal Data entities. We use a state-of-the-art Named Entity Recognition (NER) model along with contextual embedding techniques. We argue that an automated approach can assist agile teams in performing privacy requirements engineering techniques such as threat modeling, which requires a holistic understanding of how personally identifiable information is used in a system. In comparison to other domain-specific NER models, our approach achieves a reasonably good performance in terms of precision and recall.
+ER  - 
+
+TY  - CONF
+TI  - The Deep Blue Sea of Global Data Flows. Implications of the Convergence of Privacy Regimes for Overseas Transfer of Personal Data
+T2  - 2021 44th International Convention on Information, Communication and Electronic Technology (MIPRO)
+SP  - 1511
+EP  - 1517
+AU  - F. Molinari
+AU  - D. Čišić
+AU  - B. Kovačić
+PY  - 2021
+DO  - 10.23919/MIPRO52101.2021.9596733
+JO  - 2021 44th International Convention on Information, Communication and Electronic Technology (MIPRO)
+IS  - 
+SN  - 2623-8764
+VO  - 
+VL  - 
+JA  - 2021 44th International Convention on Information, Communication and Electronic Technology (MIPRO)
+Y1  - 27 Sept.-1 Oct. 2021
+AB  - After the General Data Protection Regulation (GDPR) entered into force, the topic of overseas transfer of personal data for purposes of storage and processing has gained visibility and prominence in both the privacy impact assessments and the informed consent forms issued by EEA based organisations. Related compliance issues have been exacerbated by a 2020 ruling of the European Court of Justice, which upheld the adoption by US based providers of Standard Contract Clauses to safeguard the data subjects' rights of EEA citizens whose personal data is stored or processed on their platforms. A little explored set of privacy issues materializes when data flows take the opposite direction: i.e. gathered/stored outside and shared/processed inside the EEA space. This paper takes such perspective to examine, in a comparative fashion, the similarities and distinctions between the GDPR provisions and the privacy regimes of China, US and UK (after Brexit), each of them undertaking a process of transformation, and convergence towards GDPR, although with different approaches and pathways. The topic can be of interest for research or service teams engaged in multi-country data gathering, a trend one may expect to grow in the future.
+ER  - 
+
+TY  - CONF
+TI  - Toward Compliance Implications and Security Objectives: A Qualitative Study
+T2  - 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW)
+SP  - 138
+EP  - 145
+AU  - D. Prokhorenkov
+PY  - 2023
+DO  - 10.1109/ICDEW58674.2023.00028
+JO  - 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW)
+IS  - 
+SN  - 2473-3490
+VO  - 
+VL  - 
+JA  - 2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW)
+Y1  - 3-7 April 2023
+AB  - Presently, personal data protection and supplementary methods delivering the required level of confidentiality may not fulfil the existing European Union legal standards. Moreover, it still has numerous research gaps. Therefore, the most crucial objective demanded by multiple stakeholders is securing the correct application of privacy-enhancing technology (PET) methods concerning General Data Protection Regulation (GDPR) compliance. However, no review and analysis of the overlap exist between the PET and compliance domains focusing on security goals and the anonymization level. Consequently, this study focuses on the implications of security goals and Data Privacy Impact Assessment (DPIA) introduced in GDPR to enhance personal data security from the respondent’s group standpoint, namely data protection officers, software developers, privacy legal practitioners and privacy researchers. Additionally, the consequence of different levels of anonymization, security goals, and PET method (Differential Privacy) concerning appropriate compliance will be studied. More importantly, our research method relies on a literature review and a detailed survey with a specific group of respondents. Therefore, this review provides a snapshot of the current situation between the needs of a particular group of respondents and security goals, with an additional focus on different anonymization levels and compliance requirements.
+ER  - 
+
+TY  - CONF
+TI  - Internet of Things and Blockchain: Legal Issues and Privacy. The Challenge for a Privacy Standard
+T2  - 2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)
+SP  - 727
+EP  - 734
+AU  - N. Fabiano
+PY  - 2017
+DO  - 10.1109/iThings-GreenCom-CPSCom-SmartData.2017.112
+JO  - 2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)
+Y1  - 21-23 June 2017
+AB  - The IoT is innovative and important phenomenon prone to several services ad applications, but it should consider the legal issues related to the data protection law. However, should be taken into account the legal issues related to the data protection and privacy law. Technological solutions are welcome, but it is necessary, before developing applications, to consider the risks which we cannot dismiss. Personal data is a value. In this context is fundamental to evaluate the legal issues and prevent them, adopting in each project the privacy by design approach. Regarding the privacy and security risks, there are some issues with potential consequences for data security and liability. The IoT system allows us to transfer data on the Internet, including personal data. In this context, it is important to consider the new European General Data Protection Regulation (GDPR) - already in force from 24 May 2016 - that will be applicable on 25 May 2018. The GDPR introduces Data Protection Impact Assessment (DPIA), data breach notification and very hard administrative fines in respect of infringements of the Regulation. A correct law analysis allows evaluating risks preventing the wrong use of personal data. The IoT ecosystem is evolving quickly, developing several applications in different sectors. The main topics for the last time are Big Data and the blockchain. People are paying attention to the latest one because of its potential concrete use for services and applications, increasing the security measures to guarantee a secure system. However, it is equally important to analyse the legal issues related to them. Everyone has the right to the protection of personal data concerning him or her. In this context, we cannot dismiss to guarantee an adequate protection of personal data designing any application. The contribution describes the main legal issues related to privacy and data protection especially regarding the blockchain, focusing on the Privacy by Design approach, according to the GDPR. Furthermore, I resolutely believe that is possible to develop a worldwide privacy standard framework that organisations can use for their data protection activities.
+ER  - 
+
+TY  - CHAP
+TI  - Legal Aspects of Operating IoT Applications in the Fog
+T2  - Fog and Edge Computing: Principles and Paradigms
+SP  - 411
+EP  - 432
+AU  - Rajkumar Buyya
+AU  - Satish Narayana Srirama
+PY  - 2019
+DO  - 10.1002/9781119525080.ch16
+PB  - Wiley
+SN  - 
+UR  - http://ieeexplore.ieee.org/document/8654065
+AB  - Data protection by design aims to reduce possible privacy harms that fog applications may cause by combining it with the data protection impact assessment (DPIA) and the data protection enhancing technologies. This chapter classifies fog/edge/Internet‐of‐Things (IoT) applications, analyzes the latest restrictions introduced by the General Data Protection Regulation (GDPR), and discusses how these legal constraints affect the design and operation of IoT applications in fog and cloud environments. The GDPR introduces the data subject's right to data portability. It provides the right to obtain from the controller those data in a structured and commonly used electronic format. Secured systems combining with the data processing principles consists of privacy by default or, with the GDPR words, data protection by default (DPbD). Basically, DPbD is related to the data minimization principle and orders to the data controller to collect the minimum possible personal data during the services.
+ER  - 
+
+TY  - CONF
+TI  - Smart City Privacy: Enhancing Collaborative Transparency in the Regulatory Ecosystem
+T2  - 2019 CTTE-FITCE: Smart Cities & Information and Communication Technology (CTTE-FITCE)
+SP  - 1
+EP  - 5
+AU  - A. Christofi
+AU  - R. Heyman
+AU  - L. Vandercruysse
+AU  - V. Verdoodt
+AU  - C. Buts
+AU  - M. Dooms
+AU  - J. Pierson
+AU  - P. Valcke
+PY  - 2019
+DO  - 10.1109/CTTE-FITCE.2019.8894824
+JO  - 2019 CTTE-FITCE: Smart Cities & Information and Communication Technology (CTTE-FITCE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 CTTE-FITCE: Smart Cities & Information and Communication Technology (CTTE-FITCE)
+Y1  - 25-27 Sept. 2019
+AB  - The development of smart cities has several privacy implications and it challenges the application and enforcement of data protection law. The SPECTRE project looks at these challenges through the lens of the disciplines of law, communication sciences and economics. The aim is to explore and propose legitimate, participatory and economically-sound solutions for enhancing data protection. SPECTRE will argue for greater responsibilisation in the smart city environment, by increasing participation of different stakeholders through the development of a collaborative, cost-efficient Data Protection Impact Assessment (DPIA) methodology. Furthermore, the potential of using public procurement rules to incorporate this new method for a DPIA to effectively deal with the privacy impacts of smart cities will be explored.
+ER  - 
+
+TY  - CONF
+TI  - Privacy Violation Classification of Snort Ruleset
+T2  - 2010 18th Euromicro Conference on Parallel, Distributed and Network-based Processing
+SP  - 654
+EP  - 658
+AU  - N. Ulltveit-Moe
+AU  - V. Oleshchuk
+PY  - 2010
+DO  - 10.1109/PDP.2010.87
+JO  - 2010 18th Euromicro Conference on Parallel, Distributed and Network-based Processing
+IS  - 
+SN  - 2377-5750
+VO  - 
+VL  - 
+JA  - 2010 18th Euromicro Conference on Parallel, Distributed and Network-based Processing
+Y1  - 17-19 Feb. 2010
+AB  - It is important to analyse the privacy impact of Intrusion Detection System (IDS) rules, in order to understand and quantify the privacy-invasiveness of network monitoring services. The objective in this paper is to classify Snort rules according to the risk of privacy violations in the form of leaking sensitive or confidential material. The classification is based on a ruleset that formerly has been manually categorised according to our PRIvacy LEakage (PRILE) methodology. Such information can be useful both for privacy impact assessments and automated tests for detecting privacy violations. Information about potentially privacy violating rules can subsequently be used to tune the IDS rule sets, with the objective to minimise the expected amount of data privacy violations during normal operation. The paper suggests some classification tasks that can be useful both to improve the PRILE methodology and for privacy violation evaluation tools. Finally, two selected classification tasks are analysed by using a Nai¿ve Bayes classifier.
+ER  - 
+
+TY  - CONF
+TI  - Position Paper: The role of law in achieving privacy and security measures in smart buildings from the GDPR context
+T2  - 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+SP  - 619
+EP  - 626
+AU  - N. Leesakul
+AU  - C. Morisset
+PY  - 2023
+DO  - 10.1109/EuroSPW59978.2023.00073
+JO  - 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+IS  - 
+SN  - 2768-0657
+VO  - 
+VL  - 
+JA  - 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+Y1  - 3-7 July 2023
+AB  - Background.Smart buildings are gaining more awareness and becoming adaptive to building occupant preferences, enabling by personal data processing given the implementation of sensors and pervasive computing. Although these technologies may provide great benefits, they can equally threaten the privacy of building occupants and raise data security concerns.Aim. The complexity of smart buildings poses difficulties when applying the General Data Protection Regulations (GDPR) in addressing the aforementioned concerns. This paper unpacks the specific ambiguities that make applying the GDPR in this context challenging and identify the key requirements for data controllers in managing data privacy. Methods. This paper takes on a doctrinal approach to research by drawing upon legal sources and existing scholarship in related fields, in particular, legal privacy scholars. Results. The pressing compliance problems stem from the debate on what is considered as 'personal data' in smart buildings in which dictates the compliance requirements, in particular, data protection impact assessments (DPIAs). We identify three facets that smart building controllers should focus on in complying with the GDPR: establishing personal data, identifying individual rights, and determining a high risk to the rights and freedom of natural persons. Conclusions. The law can help prevent harms and ensure that individual rights are protected in smart buildings. To achieve this, understanding the compliance pain points of smart environment in order to strike the balance between the privacy of the occupants and the benefits of smart buildings is crucial. This is a call for further empirical and interdisciplinary research to effectively address the issues surrounding smart environment compliance challenges.
+ER  - 
+
+TY  - CHAP
+TI  - Privacy Tools
+T2  - Threat Modeling: Designing for Security
+SP  - 111
+EP  - 121
+AU  - Adam Shostack
+PY  - 2014
+DO  - 
+PB  - Wiley
+SN  - 
+UR  - http://ieeexplore.ieee.org/document/9932359
+AB  - Threat modeling for privacy issues is an emergent and important area. Much like security threats violate a required security property, privacy threats are where a required privacy property is violated. This chapter discusses the ways to threat model for privacy, including Solove's taxonomy of privacy harms, the Internet Engineering Task Force's (IETF) &#x201c;Privacy Considerations for Internet Protocols,&#x201d; privacy impact assessments, the nymity slider, contextual integrity, and the LINDDUN approach, a mirror of STRIDE created to find privacy threats. Solove's taxonomy is most usable by privacy experts, in the same way that STRIDE as a mnemonic is most useful for security experts. The IETF requires consideration of security threats, and has a process to threat model focused on their organizational needs. LINDDUN is presented as a complete approach to threat modeling with a process, threats, and requirements discovery method.
+ER  - 
+
+TY  - CONF
+TI  - The Odyssey: Modeling Privacy Threats in a Brave New World
+T2  - 2018 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+SP  - 87
+EP  - 94
+AU  - R. Galvez
+AU  - S. Gurses
+PY  - 2018
+DO  - 10.1109/EuroSPW.2018.00018
+JO  - 2018 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+Y1  - 23-27 April 2018
+AB  - In the upcoming General Data Protection Regulation (GDPR), privacy by design and privacy impact assessments are given an even more prominent role than before. It is now required that companies build privacy into the core of their technical products. Recently, researchers and industry players have proposed employing threat modeling methods, traditionally used in security engineering, as a way to bridge these two GDPR requirements in the process of engineering systems. Threat modeling, however, typically assumes a waterfall process and monolithic design, assumptions that are disrupted with the popularization of Agile methodologies and Service Oriented Architectures. Moreover, agile service environments make it easier to address some privacy problems, while complicating others. To date, the challenges of applying threat modeling for privacy in agile service environments remain understudied. This paper sets out to expose and analyze this gap. Specifically, we analyze what challenges and opportunities the shifts in software engineering practice introduce into traditional Threat Modeling activities; how they relate to the different Privacy Goals; and what Agile principles and Service properties have an impact on them. Our results show that both agile and services make the end-toend analysis of applications more difficult. At the same time, the former allows for more efficient communications and iterative progress, while the latter enables the parallelization of tasks and the documentation of some architecture decisions. Additionally, we open a new research avenue pointing to Amazon Macie as an example of Machine Learning applications that aim to provide a solution to the scalability and usability of Privacy Threat Modeling processes.
+ER  - 
+
+TY  - CHAP
+TI  - Governance, Risk, and Compliance
+T2  - CASP+ CompTIA Advanced Security Practitioner Practice Tests: Exam CAS-004
+SP  - 175
+EP  - 205
+AU  - Nadean H. Tanner
+PY  - 2021
+DO  - 
+PB  - Wiley
+SN  - 
+UR  - http://ieeexplore.ieee.org/document/9946772
+AB  - This chapter provides practice questions covering governance, risk, and compliance and objectives on CASP+ Exam topics. It explains set of requirements, and applies the appropriate risk strategies. The chapter explains the importance of managing and mitigating vendor risk. It also explains compliance frameworks and legal considerations and their organizational impact. The chapter explores the importance of business continuity and disaster recovery concepts. It explains concepts such as business impact analysis, privacy impact assessment, disaster recovery plan/business continuity plan, incident response plan and testing plans.
+ER  - 
+
+TY  - CHAP
+TI  - Protecting the Privacy of Electricity Consumers in the Smart City
+T2  - Transportation and Power Grid in Smart Cities: Communication Networks and Services
+SP  - 529
+EP  - 554
+AU  - Hussein T. Mouftah
+AU  - Melike Erol-Kantarci
+AU  - Mubashir Husain Rehmani
+PY  - 2019
+DO  - 10.1002/9781119360124.ch20
+PB  - Wiley
+SN  - 
+UR  - http://ieeexplore.ieee.org/document/8654070
+AB  - The smart grid, being an intelligent energy infrastructure, has linkage to various elements of city operations and is considered as one of the essential features in a smart city. The smart grid introduces substantial benefits and opportunities to the smart city, but it also raises several challenges related to privacy. Definitely, security and privacy are considered as the crucial components for a secure smart grid, including vehicle‐to‐grid networks. However, ensuring privacy is more complicated than ensuring security. The privacy risks and challenges introduced by the smart grid have to be addressed. The objective of this chapter is to provide insights of privacy protection of electricity consumers in the smart city. This chapter underlines privacy concerns in the smart grid as well as emphasizes aspects of privacy principles including privacy by design (PbD). It also stipulates a basis for better understanding of the current state‐of‐the‐art privacy engineering as well as privacy impact assessment and privacy‐enhancing technologies.
+ER  - 
+
+TY  - STD
+TI  - IEEE Draft Standard for Data Privacy Process
+T2  - IEEE Draft Standard for Data Privacy Process
+SP  - 1
+EP  - 
+PY  - 
+DO  - 
+JO  - IEEE Draft Standard for Data Privacy Process
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Draft Standard for Data Privacy Process
+Y1  - 
+AB  - The requirements for a systems/software engineering process for privacy-oriented considerations regarding products, services, and systems utilizing employee, customer, or other external user's personal data are defined by this standard. Organizations and projects that are developing and deploying products, systems, processes, and applications that involve personal information are candidate users of the P7002 standard. Specific procedures, diagrams, and checklists are provided for users of the P7002 standard to perform conformity assessments on their specific privacy practices. Privacy impact assessments (PIAs) are described as a tool for both identifying where privacy controls and measures are needed and for confirming they are in place.
+ER  - 
+
+TY  - STD
+TI  - IEEE Draft Standard for Data Privacy Process
+T2  - IEEE Draft Standard for Data Privacy Process
+SP  - 1
+EP  - 
+PY  - 
+DO  - 
+JO  - IEEE Draft Standard for Data Privacy Process
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Draft Standard for Data Privacy Process
+Y1  - 
+AB  - This standard defines requirements for a systems/software engineering process for privacy oriented considerations regarding products, services, and systems utilizing employee, customer or other external user's personal data. It extends across the life cycle from policy through development, quality assurance, and value realization. It includes a use case and data model (including metadata). It applies to organizations and projects that are developing and deploying products, systems, processes, and applications that involve personal information. By providing specific procedures, diagrams, and checklists, users of this standard will be able to perform a conformity assessment on their specific privacy practices. Privacy impact assessments (PIAs) are described as a tool for both identifying where privacy controls and measures are needed and for confirming they are in place.
+ER  - 
+
+
