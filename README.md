@@ -16,4 +16,18 @@ Data Extraction Template
 Documentation of the search processes
 - ScR Documentation - 1st and 2nd Rounds.pdf
 
+Cite this work:
+- Iwaya, L.H., Alaqra, A.S., Hansen, M. and Fischer-Hübner, S., 2024. Privacy Impact Assessments in the Wild: A Scoping Review. arXiv preprint arXiv:2402.11193.
+
+```Bibtex
+@misc{iwaya2024privacy,
+      title={Privacy Impact Assessments in the Wild: A Scoping Review}, 
+      author={Leonardo Horn Iwaya and Ala Sarah Alaqra and Marit Hansen and Simone Fischer-Hübner},
+      year={2024},
+      eprint={2402.11193},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```
+
 Contact the author: leonardo.iwaya@kau.se
