@@ -21,7 +21,7 @@ Cite this work:
 
 ```Bibtex
 @article{IWAYA2024100356,
-  author = {Leonardo Horn Iwaya and Ala Sarah Alaqra and Marit Hansen and Simone Fischer-Hübner},
+  author = {Leonardo Horn Iwaya and Ala Sarah Alaqra and Marit Hansen and Simone Fischer-H\"{u}bner},
   title = {Privacy impact assessments in the wild: A scoping review},
   journal = {Array},
   volume = {23},
