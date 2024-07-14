@@ -20,14 +20,16 @@ Cite this work:
 - Leonardo Horn Iwaya, Ala Sarah Alaqra, Marit Hansen, and Simone Fischer-Hübner. 2024. Privacy impact assessments in the wild: A scoping review. Array (2024), 100356. https://doi.org/10.1016/j.array.2024.100356
 
 ```Bibtex
-@article{iwaya2024privacy,
+@article{IWAYA2024100356,
   author = {Leonardo Horn Iwaya and Ala Sarah Alaqra and Marit Hansen and Simone Fischer-Hübner},
   title = {Privacy impact assessments in the wild: A scoping review},
   journal = {Array},
+  volume = {23},
   pages = {100356},
   year = {2024},
   issn = {2590-0056},
   doi = {https://doi.org/10.1016/j.array.2024.100356},
+  url = {https://www.sciencedirect.com/science/article/pii/S2590005624000225},
 }
 ```
 
