@@ -17,7 +17,7 @@ Documentation of the search processes
 - ScR Documentation - 1st and 2nd Rounds.pdf
 
 Cite this work:
-- Leonardo Horn Iwaya, Ala Sarah Alaqra, Marit Hansen, and Simone Fischer-Hübner. 2024. Privacy impact assessments in the wild: A scoping review. Array (2024), 100356. https://doi.org/10.1016/j.array.2024.100356
+- Iwaya, L.H., Alaqra, A.S., Hansen, M., Fischer-Hübner, S., 2024. Privacy impact assessments in the wild: A scoping review. Array 23, 100356. https://doi.org/10.1016/j.array.2024.100356
 
 ```Bibtex
 @article{IWAYA2024100356,
